@@ -4,6 +4,8 @@
         <TargetFramework>netstandard2.0</TargetFramework>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
         <Version>0.1.1</Version>
+		<PackageId>Idler.Polyv.SDK.Live</PackageId>
+		<RepositoryUrl>https://github.com/aiaiaifei/Polyv.SDK</RepositoryUrl>
     </PropertyGroup>
 
     <ItemGroup>
