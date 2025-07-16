@@ -117,8 +117,7 @@ namespace Polyv.SDK.Live
         /// <returns></returns>
         protected long NowTimeStamp()
         {
-            DateTime Jan1st1970 = new DateTime(1970, 1, 1, 0, 0, 0, DateTimeKind.Utc);
-            return (long)(DateTime.Now.AddHours(-8) - Jan1st1970).TotalMilliseconds;
+            return DateTimeOffset.UtcNow.ToUnixTimeMilliseconds();
         }
 
         /// <summary>
