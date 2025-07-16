@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polyv.SDK.Live", "Polyv.SDK.Live\Polyv.SDK.Live.csproj", "{3A0A650E-61CF-4FED-B108-64B2DBFD2B50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polyv.SDK.Live.Abstractions", "Polyv.SDK.Live.Abstractions\Polyv.SDK.Live.Abstractions.csproj", "{C8C6CCA1-F598-4859-922A-EA352FBC7C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polyv.SDK.Live.Tests", "Polyv.SDK.Live.Tests\Polyv.SDK.Live.Tests.csproj", "{A54A69B6-30F5-4B3B-9F3F-9BB9E06F626D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A0A650E-61CF-4FED-B108-64B2DBFD2B50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0A650E-61CF-4FED-B108-64B2DBFD2B50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0A650E-61CF-4FED-B108-64B2DBFD2B50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0A650E-61CF-4FED-B108-64B2DBFD2B50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8C6CCA1-F598-4859-922A-EA352FBC7C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8C6CCA1-F598-4859-922A-EA352FBC7C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8C6CCA1-F598-4859-922A-EA352FBC7C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8C6CCA1-F598-4859-922A-EA352FBC7C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A54A69B6-30F5-4B3B-9F3F-9BB9E06F626D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A54A69B6-30F5-4B3B-9F3F-9BB9E06F626D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A54A69B6-30F5-4B3B-9F3F-9BB9E06F626D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A54A69B6-30F5-4B3B-9F3F-9BB9E06F626D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

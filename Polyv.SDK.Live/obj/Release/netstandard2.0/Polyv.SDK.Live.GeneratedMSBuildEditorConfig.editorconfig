@@ -1,0 +1,6 @@
+is_global = true
+build_property.RootNamespace = Polyv.SDK.Live
+build_property.ProjectDir = /Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 

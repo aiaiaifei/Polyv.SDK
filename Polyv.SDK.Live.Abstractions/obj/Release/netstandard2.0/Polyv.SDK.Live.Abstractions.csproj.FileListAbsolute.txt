@@ -1,0 +1,10 @@
+/Users/gaoge/SynologyDrive/文件/部署脚本/SDK/nupkgs/Polyv.SDK.Live.Abstractions.deps.json
+/Users/gaoge/SynologyDrive/文件/部署脚本/SDK/nupkgs/Polyv.SDK.Live.Abstractions.dll
+/Users/gaoge/SynologyDrive/文件/部署脚本/SDK/nupkgs/Polyv.SDK.Live.Abstractions.pdb
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live.Abstractions/obj/Release/netstandard2.0/Polyv.SDK.Live.Abstractions.csproj.AssemblyReference.cache
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live.Abstractions/obj/Release/netstandard2.0/Polyv.SDK.Live.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live.Abstractions/obj/Release/netstandard2.0/Polyv.SDK.Live.Abstractions.AssemblyInfoInputs.cache
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live.Abstractions/obj/Release/netstandard2.0/Polyv.SDK.Live.Abstractions.AssemblyInfo.cs
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live.Abstractions/obj/Release/netstandard2.0/Polyv.SDK.Live.Abstractions.csproj.CoreCompileInputs.cache
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live.Abstractions/obj/Release/netstandard2.0/Polyv.SDK.Live.Abstractions.dll
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live.Abstractions/obj/Release/netstandard2.0/Polyv.SDK.Live.Abstractions.pdb

@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Version>0.1.0</Version>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Autofac" Version="8.0.0" />
+      <PackageReference Include="Idler.Common.Core" Version="0.1.8" />
+      <PackageReference Include="RestSharp" Version="112.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Polyv.SDK.Live.Abstractions\Polyv.SDK.Live.Abstractions.csproj" />
+    </ItemGroup>
+
+</Project>

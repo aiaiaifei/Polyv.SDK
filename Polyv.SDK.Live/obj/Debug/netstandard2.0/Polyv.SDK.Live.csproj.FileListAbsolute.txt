@@ -1,0 +1,13 @@
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live/bin/Debug/netstandard2.0/Polyv.SDK.Live.deps.json
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live/bin/Debug/netstandard2.0/Polyv.SDK.Live.dll
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live/bin/Debug/netstandard2.0/Polyv.SDK.Live.pdb
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live/bin/Debug/netstandard2.0/Polyv.SDK.Live.Abstractions.dll
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live/bin/Debug/netstandard2.0/Polyv.SDK.Live.Abstractions.pdb
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live/obj/Debug/netstandard2.0/Polyv.SDK.Live.csproj.AssemblyReference.cache
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live/obj/Debug/netstandard2.0/Polyv.SDK.Live.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live/obj/Debug/netstandard2.0/Polyv.SDK.Live.AssemblyInfoInputs.cache
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live/obj/Debug/netstandard2.0/Polyv.SDK.Live.AssemblyInfo.cs
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live/obj/Debug/netstandard2.0/Polyv.SDK.Live.csproj.CoreCompileInputs.cache
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live/obj/Debug/netstandard2.0/Polyv.SD.9F2AB10B.Up2Date
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live/obj/Debug/netstandard2.0/Polyv.SDK.Live.dll
+/Users/gaoge/Documents/GitHub/Polyv.SDK/Polyv.SDK.Live/obj/Debug/netstandard2.0/Polyv.SDK.Live.pdb
